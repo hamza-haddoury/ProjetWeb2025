@@ -1,0 +1,966 @@
+{
+  "formule1": [
+    {
+      "question": "Lewis Hamilton a remporté son premier titre mondial avec Mercedes.",
+      "options": ["Vrai","Faux"],
+      "answer": "Faux"
+    },
+    {
+      "question": "Le Grand Prix de Monaco est le plus ancien du calendrier actuel.",
+      "options": ["Vrai","Faux"],
+      "answer": "Faux"
+    },
+    {
+      "question": "Michael Schumacher a remporté plus de 100 Grands Prix.",
+      "options": ["Vrai","Faux"],
+      "answer": "Faux"
+    },
+    {
+      "question": "Le DRS est une technologie utilisée pour améliorer le freinage.",
+      "options": ["Vrai","Faux"],
+      "answer": "Faux"
+    },
+    {
+      "question": "Ayrton Senna est décédé lors du Grand Prix d'Imola.",
+      "options": ["Vrai","Faux"],
+      "answer": "Vrai"
+    },
+    {
+      "question": "Les voitures de F1 utilisent exclusivement des pneus slicks en course.",
+      "options": ["Vrai","Faux"],
+      "answer": "Faux"
+    },
+    {
+      "question": "Max Verstappen est devenu champion du monde pour la première fois en 2021.",
+      "options": ["Vrai","Faux"],
+      "answer": "Vrai"
+    },
+    {
+      "question": "Le circuit de Spa-Francorchamps se trouve en Belgique.",
+      "options": ["Vrai","Faux"],
+      "answer": "Vrai"
+    },
+    {
+      "question": "La Formule 1 a été fondée officiellement en 1960.",
+      "options": ["Vrai","Faux"],
+      "answer": "Faux"
+    },
+    {
+      "question": "Une pénalité de drive-through oblige le pilote à passer par la voie des stands et s’arrêter devant son boxe.",
+      "options": ["Vrai","Faux"],
+      "answer": "Faux"
+    },
+    {
+      "question": "L’écurie Mercedes est la plus titrée de l’histoire de la F1.",
+      "options": ["Vrai","Faux"],
+      "answer": "Faux"
+    },
+    {
+      "question": "Un arrêt au stand pour changer les pneus dure généralement moins de 10 secondes.",
+      "options": ["Vrai","Faux"],
+      "answer": "Vrai"
+    },
+    {
+      "question": "Les moteurs actuels de F1 sont des V12 atmosphériques.",
+      "options": ["Vrai","Faux"],
+      "answer": "Faux"
+    },
+    {
+      "question": "Le Grand Prix d’Australie ouvre souvent la saison de F1.",
+      "options": ["Vrai","Faux"],
+      "answer": "Vrai"
+    },
+    {
+      "question": "Le Halo a été introduit pour la première fois en 2017.",
+      "options": ["Vrai","Faux"],
+      "answer": "Faux"
+    },
+    {
+      "question": "Quel pilote détient le record de victoires en Grand Prix ?",
+      "options": ["Alain Prost", "Lewis Hamilton","Michael Schumacher", "Sebastian Vettel"],
+      "answer": "Lewis Hamilton"
+    },
+    {
+      "question": "Quelle équipe a dominé la saison 2023 ?",
+      "options": [ "Ferrari", "Mercedes", "Red Bull", "McLaren" ],
+      "answer": "Red Bull"
+    },
+    {
+      "question": "Combien de points obtient le vainqueur d’un Grand Prix (hors bonus) ?",
+      "options": [ "20",  "25", "18", "15"],
+      "answer": "25"
+    },
+    {
+      "question": "Qui est le coéquipier de Lewis Hamilton en 2024 chez Mercedes ?",
+      "options": ["George Russell", "Lando Norris", "Carlos Sainz", "Charles Leclerc" ],
+      "answer": "George Russell"
+    },
+    {
+      "question": "Lequel de ces circuits est un circuit urbain ?",
+      "options": ["Suzuka","Silverstone","Monaco", "Monza"],
+      "answer": "Monaco"
+    },
+    {
+      "question": "Quelle nationalité est celle de Fernando Alonso ?",
+      "options": ["Brésilien","Espagnol", "Argentin","Portugais" ],
+      "answer": "Espagnol"
+    },
+    {
+      "question": "Quel constructeur motorise l’écurie McLaren en 2024 ?",
+      "options": ["Honda", "Mercedes","Renault", "Ferrari" ],
+      "answer": "Mercedes"
+    },
+    {
+      "question": "Quelle est la durée maximale d’un Grand Prix (sauf exception) ?",
+      "options": ["90 minutes", "1h30", "2 heures","3 heures" ],
+      "answer": "2 heures"
+    },
+    {
+      "question": "Quelle couleur est utilisée pour les pneus tendres (soft) ?",
+      "options": [ "Jaune","Blanc", "Rouge","Bleu" ],
+      "answer": "Rouge"
+    },
+    {
+      "question": "Quel est le pays natal de Charles Leclerc ?",
+      "options": [ "France","Italie","Monaco","Suisse"],
+      "answer": "Monaco"
+    },
+    {
+      "question": "Combien de titres mondiaux a remporté Sebastian Vettel ?",
+      "options": ["3","4","5","6"],
+      "answer": "4"
+    },
+    {
+      "question": "En quelle année a été introduit le système DRS ?",
+      "options": ["2009","2011","2013","2015"],
+      "answer": "2011"
+    },
+    {
+      "question": "Quelle équipe a été créée par Ayrton Senna ?",
+      "options": ["Aucun","McLaren","Williams","Lotus"],
+      "answer": "Aucun"
+    },
+    {
+      "question": "Quelle ville accueille le Grand Prix des États-Unis à Austin ?",
+      "options": ["Miami","Austin","Dallas","Houston"],
+      "answer": "Austin"
+    },
+    {
+      "question": "Qui est le directeur de course en F1 en 2024 ?",
+      "options": ["Michael Masi","Charlie Whiting","Niels Wittich","Toto Wolff"],
+      "answer": "Niels Wittich"
+    }
+  ],
+
+
+
+
+
+
+
+
+
+
+  "basketball": [
+    {
+      "question": "Michael Jordan a remporté 6 titres NBA avec les Chicago Bulls.",
+      "options": ["Vrai", "Faux"],
+      "answer": "Vrai"
+    },
+    {
+      "question": "Un match de NBA dure 48 minutes au total.",
+      "options": ["Vrai", "Faux"],
+      "answer": "Vrai"
+    },
+    {
+      "question": "Le tir à trois points a été introduit dans les années 1950.",
+      "options": ["Vrai", "Faux"],
+      "answer": "Faux"
+    },
+    {
+      "question": "Le ballon officiel de la NBA est fabriqué par Spalding.",
+      "options": ["Vrai", "Faux"],
+      "answer": "Faux"
+    },
+    {
+      "question": "Le MVP de la saison régulière 2023-2024 est un joueur européen.",
+      "options": ["Vrai", "Faux"],
+      "answer": "Vrai"
+    },
+    {
+      "question": "En NBA, un joueur est éliminé après 5 fautes personnelles.",
+      "options": ["Vrai", "Faux"],
+      "answer": "Faux"
+    },
+    {
+      "question": "Kobe Bryant a passé toute sa carrière NBA chez les Los Angeles Lakers.",
+      "options": ["Vrai", "Faux"],
+      "answer": "Vrai"
+    },
+    {
+      "question": "Le All-Star Game est organisé chaque année en décembre.",
+      "options": ["Vrai", "Faux"],
+      "answer": "Faux"
+    },
+    {
+      "question": "Les paniers à 3 points valent 4 points si le joueur subit une faute.",
+      "options": ["Vrai", "Faux"],
+      "answer": "Faux"
+    },
+    {
+      "question": "Giannis Antetokounmpo est surnommé \"The Greek Freak\".",
+      "options": ["Vrai", "Faux"],
+      "answer": "Vrai"
+    },
+    {
+      "question": "Un alley-oop est une passe suivie immédiatement d’un dunk.",
+      "options": ["Vrai", "Faux"],
+      "answer": "Vrai"
+    },
+    {
+      "question": "Shaquille O’Neal a joué pour plus de trois franchises NBA.",
+      "options": ["Vrai", "Faux"],
+      "answer": "Vrai"
+    },
+    {
+      "question": "La ligue WNBA est l'équivalent féminin de la NBA.",
+      "options": ["Vrai", "Faux"],
+      "answer": "Vrai"
+    },
+    {
+      "question": "La NCAA est une ligue professionnelle américaine.",
+      "options": ["Vrai", "Faux"],
+      "answer": "Faux"
+    },
+    {
+      "question": "Stephen Curry est connu pour sa capacité exceptionnelle à tirer à 3 points.",
+      "options": ["Vrai", "Faux"],
+      "answer": "Vrai"
+    },
+    {
+      "question": "Combien de joueurs sont sur le terrain par équipe en match officiel ?",
+      "options": ["4", "5", "6", "7"],
+      "answer": "5"
+    },
+    {
+      "question": "Quelle équipe a remporté le titre NBA en 2023 ?",
+      "options": ["Boston Celtics", "Milwaukee Bucks", "Denver Nuggets", "Golden State Warriors"],
+      "answer": "Denver Nuggets"
+    },
+    {
+      "question": "Quel joueur détient le record du plus grand nombre de points inscrits en NBA (carrière) ?",
+      "options": ["Kareem Abdul-Jabbar", "LeBron James", "Michael Jordan", "Karl Malone"],
+      "answer": "LeBron James"
+    },
+    {
+      "question": "Quel joueur est célèbre pour le numéro 23 chez les Bulls ?",
+      "options": ["Scottie Pippen", "Derrick Rose", "Michael Jordan", "Dennis Rodman"],
+      "answer": "Michael Jordan"
+    },
+    {
+      "question": "Quelle nation a remporté le plus de médailles d’or olympiques en basket ?",
+      "options": ["Espagne", "États-Unis", "Russie", "France"],
+      "answer": "États-Unis"
+    },
+    {
+      "question": "Quel poste est généralement chargé d'organiser le jeu ?",
+      "options": ["Pivot", "Ailier fort", "Meneur", "Arrière"],
+      "answer": "Meneur"
+    },
+    {
+      "question": "En quelle année la Dream Team a-t-elle participé aux JO de Barcelone ?",
+      "options": ["1992", "1996", "1988", "2000"],
+      "answer": "1992"
+    },
+    {
+      "question": "Quelle est la hauteur réglementaire du panier (NBA) ?",
+      "options": ["2,75 m", "3,00 m", "3,05 m", "3,20 m"],
+      "answer": "3,05 m"
+    },
+    {
+      "question": "Quel joueur français a remporté 4 titres NBA avec les Spurs ?",
+      "options": ["Boris Diaw", "Rudy Gobert", "Evan Fournier", "Tony Parker"],
+      "answer": "Tony Parker"
+    },
+    {
+      "question": "Quel joueur a été surnommé \"King James\" ?",
+      "options": ["Kevin Durant", "LeBron James", "James Harden", "Jimmy Butler"],
+      "answer": "LeBron James"
+    },
+    {
+      "question": "Quel est le nom de l’équipe de Toronto en NBA ?",
+      "options": ["Raptors", "Grizzlies", "Hawks", "Wizards"],
+      "answer": "Raptors"
+    },
+    {
+      "question": "Combien de temps dure une possession en NBA ?",
+      "options": ["30 secondes", "24 secondes", "20 secondes", "15 secondes"],
+      "answer": "24 secondes"
+    },
+    {
+      "question": "Dans quel pays joue Victor Wembanyama en 2024 ?",
+      "options": ["France", "Espagne", "Canada", "États-Unis"],
+      "answer": "États-Unis"
+    },
+    {
+      "question": "Quel joueur a été connu pour son style \"no look pass\" et son numéro 13 chez les Lakers ?",
+      "options": ["Steve Nash", "Magic Johnson", "Jason Kidd", "Chris Paul"],
+      "answer": "Magic Johnson"
+    },
+    {
+      "question": "Quelle franchise NBA a pour mascotte un dinosaure ?",
+      "options": ["Toronto Raptors", "Atlanta Hawks", "Memphis Grizzlies", "Houston Rockets"],
+      "answer": "Toronto Raptors"
+    }
+  ],
+
+ 
+
+
+
+
+
+
+
+
+  "football": [
+    {
+      "question": "Le match de football dure 90 minutes en temps réglementaire.",
+      "options": ["Vrai", "Faux"],
+      "answer": "Vrai"
+    },
+    {
+      "question": "L’équipe la plus titrée de la Coupe du Monde est le Brésil.",
+      "options": ["Vrai", "Faux"],
+      "answer": "Vrai"
+    },
+    {
+      "question": "Cristiano Ronaldo a joué pour le club de Barcelone.",
+      "options": ["Vrai", "Faux"],
+      "answer": "Faux"
+    },
+    {
+      "question": "Le gardien de but peut utiliser ses mains dans toute la surface de réparation.",
+      "options": ["Vrai", "Faux"],
+      "answer": "Vrai"
+    },
+    {
+      "question": "Zinedine Zidane a remporté la Coupe du Monde en 1998 avec la France.",
+      "options": ["Vrai", "Faux"],
+      "answer": "Vrai"
+    },
+    {
+      "question": "Un carton rouge signifie une exclusion définitive du match.",
+      "options": ["Vrai", "Faux"],
+      "answer": "Vrai"
+    },
+    {
+      "question": "La Premier League est la compétition la plus prestigieuse d'Angleterre.",
+      "options": ["Vrai", "Faux"],
+      "answer": "Vrai"
+    },
+    {
+      "question": "Kylian Mbappé a marqué un triplé en finale de la Coupe du Monde 2018.",
+      "options": ["Vrai", "Faux"],
+      "answer": "Faux"
+    },
+    {
+      "question": "Le Bayern Munich a remporté 6 titres en 2020, incluant la Ligue des Champions.",
+      "options": ["Vrai", "Faux"],
+      "answer": "Vrai"
+    },
+    {
+      "question": "Le football est le sport le plus pratiqué au monde.",
+      "options": ["Vrai", "Faux"],
+      "answer": "Vrai"
+    },
+    {
+      "question": "Le Messi a remporté le Ballon d'Or 7 fois.",
+      "options": ["Vrai", "Faux"],
+      "answer": "Vrai"
+    },
+    {
+      "question": "La Coupe d'Afrique des Nations se déroule tous les 4 ans.",
+      "options": ["Vrai", "Faux"],
+      "answer": "Vrai"
+    },
+    {
+      "question": "L'Italie a remporté la Coupe du Monde en 2006 en Allemagne.",
+      "options": ["Vrai", "Faux"],
+      "answer": "Vrai"
+    },
+    {
+      "question": "Lionel Messi a joué la majeure partie de sa carrière au FC Barcelone avant de rejoindre le PSG.",
+      "options": ["Vrai", "Faux"],
+      "answer": "Vrai"
+    },
+    {
+      "question": "Le but inscrit le plus rapide en Coupe du Monde a été marqué en 11 secondes.",
+      "options": ["Vrai", "Faux"],
+      "answer": "Vrai"
+    },
+    {
+      "question": "Quelle équipe a remporté la Ligue des Champions en 2023 ?",
+      "options": ["Liverpool", "Manchester City", "Real Madrid", "Paris Saint-Germain"],
+      "answer": "Manchester City"
+    },
+    {
+      "question": "Combien de joueurs sont autorisés à être sur le terrain pour une équipe en match officiel ?",
+      "options": ["9", "10", "11", "12"],
+      "answer": "11"
+    },
+    {
+      "question": "Qui a remporté la Coupe du Monde 2018 ?",
+      "options": ["Allemagne", "Brésil", "France", "Argentine"],
+      "answer": "France"
+    },
+    {
+      "question": "Quel pays a remporté le plus de Coupes du Monde ?",
+      "options": ["Allemagne", "Brésil", "Italie", "Argentine"],
+      "answer": "Brésil"
+    },
+    {
+      "question": "Quelle équipe a remporté l’Euro 2020 ?",
+      "options": ["France", "Espagne", "Italie", "Portugal"],
+      "answer": "Italie"
+    },
+    {
+      "question": "Qui est l’entraîneur actuel de Manchester United (2024) ?",
+      "options": ["Pep Guardiola", "Jürgen Klopp", "Erik ten Hag", "Thomas Tuchel"],
+      "answer": "Erik ten Hag"
+    },
+    {
+      "question": "Quelle équipe a remporté la première Coupe du Monde en 1930 ?",
+      "options": ["Brésil", "Uruguay", "Italie", "Allemagne"],
+      "answer": "Uruguay"
+    },
+    {
+      "question": "Quel joueur détient le record du plus grand nombre de buts inscrits en sélection nationale ?",
+      "options": ["Cristiano Ronaldo", "Lionel Messi", "Pelé", "Miroslav Klose"],
+      "answer": "Cristiano Ronaldo"
+    },
+    {
+      "question": "En quelle année la France a-t-elle remporté l'Euro 1984 ?",
+      "options": ["1980", "1984", "1996", "2000"],
+      "answer": "1984"
+    },
+    {
+      "question": "Quel joueur a marqué le plus grand nombre de buts dans l’histoire de la Ligue des Champions ?",
+      "options": ["Cristiano Ronaldo", "Lionel Messi", "Raúl", "Karim Benzema"],
+      "answer": "Cristiano Ronaldo"
+    },
+    {
+      "question": "Qui est le meilleur buteur de l’histoire de la Premier League ?",
+      "options": ["Thierry Henry", "Wayne Rooney", "Alan Shearer", "Sergio Agüero"],
+      "answer": "Alan Shearer"
+    },
+    {
+      "question": "Quel pays a organisé la Coupe du Monde 2022 ?",
+      "options": ["Russie", "Qatar", "Brésil", "France"],
+      "answer": "Qatar"
+    },
+    {
+      "question": "Qui a été élu meilleur joueur de la Coupe du Monde 2022 ?",
+      "options": ["Neymar", "Lionel Messi", "Kylian Mbappé", "Luka Modrić"],
+      "answer": "Lionel Messi"
+    },
+    {
+      "question": "Quel club a remporté le plus de titres en Serie A (Italie) ?",
+      "options": ["Juventus", "AC Milan", "Inter Milan", "AS Roma"],
+      "answer": "Juventus"
+    },
+    {
+      "question": "Qui a marqué le plus grand nombre de buts dans l’histoire de la Coupe du Monde ?",
+      "options": ["Miroslav Klose", "Ronaldo Nazário", "Lionel Messi", "Thierry Henry"],
+      "answer": "Miroslav Klose"
+    }
+  ], 
+
+  
+
+
+
+
+
+
+
+
+  "boxe": [
+    {
+      "question": "Muhammad Ali a remporté la médaille d’or aux Jeux Olympiques de 1960.",
+      "options": ["Vrai", "Faux"],
+      "answer": "Vrai"
+    },
+    {
+      "question": "Mike Tyson est devenu champion du monde des poids lourds à l'âge de 20 ans.",
+      "options": ["Vrai", "Faux"],
+      "answer": "Vrai"
+    },
+    {
+      "question": "La boxe olympique se pratique uniquement en poids légers et moyens.",
+      "options": ["Vrai", "Faux"],
+      "answer": "Faux"
+    },
+    {
+      "question": "Floyd Mayweather a un record de 50 victoires et aucune défaite en carrière.",
+      "options": ["Vrai", "Faux"],
+      "answer": "Vrai"
+    },
+    {
+      "question": "Un combat de boxe dure 10 rounds maximum.",
+      "options": ["Vrai", "Faux"],
+      "answer": "Faux"
+    },
+    {
+      "question": "Le premier combat de boxe moderne a eu lieu en 1867 avec la mise en place des règles de Queensberry.",
+      "options": ["Vrai", "Faux"],
+      "answer": "Vrai"
+    },
+    {
+      "question": "Evander Holyfield a été surnommé 'The Real Deal'.",
+      "options": ["Vrai", "Faux"],
+      "answer": "Vrai"
+    },
+    {
+      "question": "La boxe féminine est incluse aux Jeux Olympiques depuis 2012.",
+      "options": ["Vrai", "Faux"],
+      "answer": "Vrai"
+    },
+    {
+      "question": "Rocky Marciano est le seul champion de boxe poids lourd invaincu de l'histoire.",
+      "options": ["Vrai", "Faux"],
+      "answer": "Vrai"
+    },
+    {
+      "question": "L'anglaise est une forme de boxe qui ne permet pas de frapper avec les coudes ou les genoux.",
+      "options": ["Vrai", "Faux"],
+      "answer": "Vrai"
+    },
+    {
+      "question": "Sugar Ray Leonard a remporté la médaille d'or aux Jeux Olympiques de 1976.",
+      "options": ["Vrai", "Faux"],
+      "answer": "Vrai"
+    },
+    {
+      "question": "Le 'knock-out' se produit lorsqu'un boxeur est mis hors de combat et ne peut pas se relever avant le compte de dix.",
+      "options": ["Vrai", "Faux"],
+      "answer": "Vrai"
+    },
+    {
+      "question": "Le poids léger en boxe se situe entre 50 et 55 kg.",
+      "options": ["Vrai", "Faux"],
+      "answer": "Faux"
+    },
+    {
+      "question": "George Foreman a remporté son dernier titre de champion du monde à l'âge de 45 ans.",
+      "options": ["Vrai", "Faux"],
+      "answer": "Vrai"
+    },
+    {
+      "question": "L'absorption de coups à la tête est sans danger pour un boxeur s'il porte un casque.",
+      "options": ["Vrai", "Faux"],
+      "answer": "Faux"
+    },
+    {
+      "question": "Qui est considéré comme l’un des meilleurs boxeurs de tous les temps ?",
+      "options": ["Muhammad Ali", "Mike Tyson", "Floyd Mayweather", "Manny Pacquiao"],
+      "answer": "Muhammad Ali"
+    },
+    {
+      "question": "Quel est le surnom de Muhammad Ali ?",
+      "options": ["The Hitman", "The Greatest", "Iron Man", "The Terminator"],
+      "answer": "The Greatest"
+    },
+    {
+      "question": "Qui a remporté le plus de titres de champion du monde des poids lourds ?",
+      "options": ["Mike Tyson", "Muhammad Ali", "George Foreman", "Lennox Lewis"],
+      "answer": "Muhammad Ali"
+    },
+    {
+      "question": "Qui est l’entraîneur légendaire de Mike Tyson ?",
+      "options": ["Freddie Roach", "Cus D’Amato", "Angelo Dundee", "Emmanuel Steward"],
+      "answer": "Cus D’Amato"
+    },
+    {
+      "question": "En quelle année a eu lieu le célèbre combat 'Rumble in the Jungle' entre Muhammad Ali et George Foreman ?",
+      "options": ["1965", "1971", "1974", "1980"],
+      "answer": "1974"
+    },
+    {
+      "question": "Quel boxeur a perdu son oreille lors d’un combat contre Evander Holyfield en 1997 ?",
+      "options": ["Larry Holmes", "Mike Tyson", "Roberto Durán", "Oscar De La Hoya"],
+      "answer": "Mike Tyson"
+    },
+    {
+      "question": "Quelle catégorie de poids suit immédiatement les poids lourds en boxe ?",
+      "options": ["Poids moyen", "Poids légers", "Poids super-légers", "Poids welters"],
+      "answer": "Poids moyen"
+    },
+    {
+      "question": "Quelle ville est la maison de la célèbre 'Fight Night' de boxe, la MGM Grand Arena ?",
+      "options": ["New York", "Las Vegas", "Los Angeles", "Chicago"],
+      "answer": "Las Vegas"
+    },
+    {
+      "question": "Quel est le nombre de rounds maximum dans un combat de boxe professionnel ?",
+      "options": ["10", "12", "15", "20"],
+      "answer": "12"
+    },
+    {
+      "question": "Qui est le boxeur le plus jeune à devenir champion du monde des poids lourds ?",
+      "options": ["Mike Tyson", "Muhammad Ali", "Joe Frazier", "Larry Holmes"],
+      "answer": "Mike Tyson"
+    },
+    {
+      "question": "Dans quelle catégorie de poids se trouve Floyd Mayweather ?",
+      "options": ["Poids léger", "Poids welters", "Poids moyen", "Poids lourds"],
+      "answer": "Poids welters"
+    },
+    {
+      "question": "Qui a remporté la médaille d’or aux Jeux Olympiques de 1984 dans la catégorie des poids légers ?",
+      "options": ["Sugar Ray Leonard", "Oscar De La Hoya", "Muhammad Ali", "Joe Frazier"],
+      "answer": "Sugar Ray Leonard"
+    },
+    {
+      "question": "Quelle est la principale organisation qui régule les championnats de boxe professionnels ?",
+      "options": ["WBA (World Boxing Association)", "IBF (International Boxing Federation)", "WBC (World Boxing Council)", "Toutes les réponses sont correctes"],
+      "answer": "Toutes les réponses sont correctes"
+    },
+    {
+      "question": "Qui est le boxeur légendaire surnommé 'The Golden Boy' ?",
+      "options": ["Floyd Mayweather", "Oscar De La Hoya", "Sugar Ray Leonard", "Manny Pacquiao"],
+      "answer": "Oscar De La Hoya"
+    }
+  ],
+
+  
+
+
+  "rugby": [
+    {
+      "question": "Le rugby à XV se joue avec 13 joueurs sur le terrain.",
+      "options": ["Vrai", "Faux"],
+      "answer": "Faux"
+    },
+    {
+      "question": "Le premier tournoi des Six Nations a eu lieu en 1883.",
+      "options": ["Vrai", "Faux"],
+      "answer": "Vrai"
+    },
+    {
+      "question": "Le rugby est un sport d’origine française.",
+      "options": ["Vrai", "Faux"],
+      "answer": "Faux"
+    },
+    {
+      "question": "Le haka est une danse traditionnelle chantée par les All Blacks avant chaque match.",
+      "options": ["Vrai", "Faux"],
+      "answer": "Vrai"
+    },
+    {
+      "question": "La Coupe du Monde de Rugby se déroule tous les 4 ans.",
+      "options": ["Vrai", "Faux"],
+      "answer": "Vrai"
+    },
+    {
+      "question": "Le score d'un essai est de 5 points.",
+      "options": ["Vrai", "Faux"],
+      "answer": "Vrai"
+    },
+    {
+      "question": "Le rugby à XIII est plus populaire que le rugby à XV en Nouvelle-Zélande.",
+      "options": ["Vrai", "Faux"],
+      "answer": "Faux"
+    },
+    {
+      "question": "Le joueur qui marque un essai doit ensuite tenter une transformation pour obtenir des points supplémentaires.",
+      "options": ["Vrai", "Faux"],
+      "answer": "Vrai"
+    },
+    {
+      "question": "Le ballon de rugby est sphérique.",
+      "options": ["Vrai", "Faux"],
+      "answer": "Faux"
+    },
+    {
+      "question": "La France a remporté la Coupe du Monde de Rugby en 1995.",
+      "options": ["Vrai", "Faux"],
+      "answer": "Faux"
+    },
+    {
+      "question": "Le poste de demi de mêlée est le plus souvent occupé par un joueur très rapide et agile.",
+      "options": ["Vrai", "Faux"],
+      "answer": "Vrai"
+    },
+    {
+      "question": "Le rugby à XV est plus ancien que le rugby à XIII.",
+      "options": ["Vrai", "Faux"],
+      "answer": "Vrai"
+    },
+    {
+      "question": "Un carton rouge signifie que le joueur est expulsé définitivement du terrain.",
+      "options": ["Vrai", "Faux"],
+      "answer": "Vrai"
+    },
+    {
+      "question": "En rugby, une mêlée a lieu lorsque le ballon est mis hors jeu.",
+      "options": ["Vrai", "Faux"],
+      "answer": "Faux"
+    },
+    {
+      "question": "Les équipes de rugby doivent marquer plus de 30 points pour gagner un match.",
+      "options": ["Vrai", "Faux"],
+      "answer": "Faux"
+    },
+    {
+      "question": "Qui a remporté la Coupe du Monde de Rugby en 2019 ?",
+      "options": ["France", "Nouvelle-Zélande", "Afrique du Sud", "Angleterre"],
+      "answer": "Afrique du Sud"
+    },
+    {
+      "question": "Quel pays a inventé le rugby ?",
+      "options": ["Angleterre", "France", "Nouvelle-Zélande", "Australie"],
+      "answer": "Angleterre"
+    },
+    {
+      "question": "Quel est le nombre de joueurs dans une équipe de rugby à XV ?",
+      "options": ["13", "15", "11", "7"],
+      "answer": "15"
+    },
+    {
+      "question": "Quel joueur a marqué le plus grand nombre de points en Coupe du Monde de Rugby ?",
+      "options": ["Jonny Wilkinson", "Dan Carter", "Richie McCaw", "Bernard Laporte"],
+      "answer": "Dan Carter"
+    },
+    {
+      "question": "Quelle est la durée d’un match de rugby à XV ?",
+      "options": ["60 minutes", "75 minutes", "80 minutes", "90 minutes"],
+      "answer": "80 minutes"
+    },
+    {
+      "question": "Dans quel pays se déroule la Coupe du Monde de Rugby 2023 ?",
+      "options": ["Australie", "Japon", "France", "Nouvelle-Zélande"],
+      "answer": "France"
+    },
+    {
+      "question": "Qui est l’entraîneur de l’équipe de rugby de l’Afrique du Sud lors de la Coupe du Monde 2019 ?",
+      "options": ["Steve Hansen", "Eddie Jones", "Rassie Erasmus", "Jacques Brunel"],
+      "answer": "Rassie Erasmus"
+    },
+    {
+      "question": "Quel est le rôle d’un demi de mêlée en rugby ?",
+      "options": ["Marquer des essais", "Diriger les passes et les jeux", "Gérer la mêlée uniquement", "Faire les touches"],
+      "answer": "Diriger les passes et les jeux"
+    },
+    {
+      "question": "Comment s’appelle le trophée remporté par l’équipe victorieuse de la Coupe du Monde de Rugby ?",
+      "options": ["La Coupe du Prince", "La Coupe Webb Ellis", "La Coupe Rugby Bowl", "Le Trophée des Six Nations"],
+      "answer": "La Coupe Webb Ellis"
+    },
+    {
+      "question": "Combien de points marque-t-on pour une pénalité réussie en rugby ?",
+      "options": ["3 points", "5 points", "7 points", "2 points"],
+      "answer": "3 points"
+    },
+    {
+      "question": "Quel est le surnom de l’équipe nationale de rugby de la Nouvelle-Zélande ?",
+      "options": ["Les Wallabies", "Les Springboks", "Les All Blacks", "Les Pumas"],
+      "answer": "Les All Blacks"
+    },
+    {
+      "question": "Combien de points marque-t-on pour une transformation après un essai ?",
+      "options": ["2 points", "3 points", "5 points", "7 points"],
+      "answer": "2 points"
+    },
+    {
+      "question": "Qui est le meilleur marqueur d’essais de l’histoire de la Coupe du Monde de Rugby ?",
+      "options": ["Bryan Habana", "Jonny Wilkinson", "Thierry Dusautoir", "Daisuke Ohata"],
+      "answer": "Bryan Habana"
+    },
+    {
+      "question": "Quelle est la position d’un joueur qui évolue à l’arrière dans une équipe de rugby ?",
+      "options": ["Il est toujours en première ligne de mêlée.", "Il est principalement responsable des coups de pied.", "Il joue en soutien de l’attaque et de la défense.", "Il se place à côté du demi de mêlée."],
+      "answer": "Il joue en soutien de l’attaque et de la défense."
+    },
+    {
+      "question": "Combien de fois la France a-t-elle remporté le tournoi des Six Nations depuis sa création ?",
+      "options": ["8 fois", "10 fois", "15 fois", "17 fois"],
+      "answer": "10 fois"
+    }
+  ],
+
+
+  
+
+
+
+
+
+
+
+
+  "olympics": [
+    {
+      "question": "Les premiers Jeux Olympiques modernes ont eu lieu en 1896 à Athènes.",
+      "options": ["Vrai", "Faux"],
+      "answer": "Vrai"
+    },
+    {
+      "question": "Le Japon a accueilli les Jeux Olympiques d'été pour la première fois en 1964.",
+      "options": ["Vrai", "Faux"],
+      "answer": "Vrai"
+    },
+    {
+      "question": "La compétition de rugby a été présente aux Jeux Olympiques jusqu’en 1924.",
+      "options": ["Vrai", "Faux"],
+      "answer": "Vrai"
+    },
+    {
+      "question": "Les Jeux Olympiques d’hiver ont été organisés pour la première fois en 1924 à Chamonix.",
+      "options": ["Vrai", "Faux"],
+      "answer": "Vrai"
+    },
+    {
+      "question": "La flamme olympique est allumée à Athènes avant chaque édition des Jeux.",
+      "options": ["Vrai", "Faux"],
+      "answer": "Vrai"
+    },
+    {
+      "question": "Le relais de la flamme olympique passe par tous les pays participants.",
+      "options": ["Vrai", "Faux"],
+      "answer": "Faux"
+    },
+    {
+      "question": "L’athlétisme est un sport olympique depuis les premiers Jeux Olympiques modernes.",
+      "options": ["Vrai", "Faux"],
+      "answer": "Vrai"
+    },
+    {
+      "question": "Les Jeux Olympiques d'été et d'hiver se tiennent toujours la même année.",
+      "options": ["Vrai", "Faux"],
+      "answer": "Faux"
+    },
+    {
+      "question": "Le premier pays à avoir accueilli les Jeux Olympiques d’hiver et d'été est la France.",
+      "options": ["Vrai", "Faux"],
+      "answer": "Vrai"
+    },
+    {
+      "question": "Michael Phelps a remporté 28 médailles olympiques en natation.",
+      "options": ["Vrai", "Faux"],
+      "answer": "Vrai"
+    },
+    {
+      "question": "Le basketball a été ajouté aux Jeux Olympiques en 1936.",
+      "options": ["Vrai", "Faux"],
+      "answer": "Vrai"
+    },
+    {
+      "question": "Les Jeux Olympiques d’hiver sont organisés tous les 4 ans.",
+      "options": ["Vrai", "Faux"],
+      "answer": "Vrai"
+    },
+    {
+      "question": "Les Jeux Olympiques de 2020 ont eu lieu à Tokyo.",
+      "options": ["Vrai", "Faux"],
+      "answer": "Vrai"
+    },
+    {
+      "question": "Le cyclisme sur route est l’une des épreuves présentes aux Jeux Olympiques modernes depuis 1900.",
+      "options": ["Vrai", "Faux"],
+      "answer": "Vrai"
+    },
+    {
+      "question": "Le pays avec le plus grand nombre de médailles d'or aux Jeux Olympiques est les États-Unis.",
+      "options": ["Vrai", "Faux"],
+      "answer": "Vrai"
+    },
+    {
+      "question": "Quel pays a remporté le plus grand nombre de médailles d’or aux Jeux Olympiques d’été ?",
+      "options": ["États-Unis", "Russie", "Allemagne", "Chine"],
+      "answer": "États-Unis"
+    },
+    {
+      "question": "Où ont eu lieu les premiers Jeux Olympiques modernes ?",
+      "options": ["Paris", "Londres", "Athènes", "Berlin"],
+      "answer": "Athènes"
+    },
+    {
+      "question": "En quelle année les premiers Jeux Olympiques d’hiver ont-ils eu lieu ?",
+      "options": ["1900", "1912", "1924", "1936"],
+      "answer": "1924"
+    },
+    {
+      "question": "Qui a allumé la flamme olympique lors des Jeux Olympiques de 1992 à Barcelone ?",
+      "options": ["José Luis González", "Juan Antonio Samaranch", "Fermín Cacho", "Antonio Rebollo"],
+      "answer": "Antonio Rebollo"
+    },
+    {
+      "question": "Combien de sports étaient présents lors des premiers Jeux Olympiques modernes en 1896 ?",
+      "options": ["10", "13", "9", "7"],
+      "answer": "13"
+    },
+    {
+      "question": "Quel est le sport qui a été introduit pour la première fois aux Jeux Olympiques de 1960 à Rome ?",
+      "options": ["Basket-ball", "Hockey sur gazon", "Volleyball", "Tennis de table"],
+      "answer": "Basket-ball"
+    },
+    {
+      "question": "Dans quelle ville ont eu lieu les Jeux Olympiques d’hiver en 1980 ?",
+      "options": ["Vancouver", "Sarajevo", "Lillehammer", "Lake Placid"],
+      "answer": "Lake Placid"
+    },
+    {
+      "question": "Le premier pays africain à avoir accueilli les Jeux Olympiques était…",
+      "options": ["Afrique du Sud", "Maroc", "Égypte", "Kenya"],
+      "answer": "Afrique du Sud"
+    },
+    {
+      "question": "En quelle année les femmes ont-elles participé pour la première fois aux Jeux Olympiques dans l’épreuve de la boxe ?",
+      "options": ["2008", "2012", "2000", "1992"],
+      "answer": "2012"
+    },
+    {
+      "question": "Qui a remporté la médaille d’or du 100m aux Jeux Olympiques de 2008 à Pékin ?",
+      "options": ["Michael Johnson", "Usain Bolt", "Carl Lewis", "Tyson Gay"],
+      "answer": "Usain Bolt"
+    },
+    {
+      "question": "Quel pays a accueilli les Jeux Olympiques d’hiver en 2014 ?",
+      "options": ["Canada", "Russie", "France", "Autriche"],
+      "answer": "Russie"
+    },
+    {
+      "question": "Quel pays a remporté la médaille d’or en football féminin aux Jeux Olympiques de 2016 ?",
+      "options": ["États-Unis", "Allemagne", "Brésil", "Suède"],
+      "answer": "États-Unis"
+    },
+    {
+      "question": "Où ont eu lieu les Jeux Olympiques de 1964 ?",
+      "options": ["Tokyo", "Paris", "Londres", "Munich"],
+      "answer": "Tokyo"
+    },
+    {
+      "question": "Lequel de ces sports est officiellement reconnu comme sport olympique ?",
+      "options": ["Golf", "Cricket", "Baseball", "Rugby à XIII"],
+      "answer": "Golf"
+    },
+    {
+      "question": "Quelle ville a été choisie pour accueillir les Jeux Olympiques de 2024 ?",
+      "options": ["Tokyo", "Los Angeles", "Paris", "New York"],
+      "answer": "Paris"
+    }
+  ]
+
+
+
+
+
+
+
+
+
+  
+}
+
+  
